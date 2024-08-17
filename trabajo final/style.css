@@ -1,0 +1,29 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{font-variant-ligatures: normal; 
+    line-height: normal;
+    background-color: aqua;
+    color: black;
+}
+header{color: aquamarine;
+       text-align: center;
+}
+header h1{
+    margin: 0%;
+}
+nav ul{
+    list-style: square;
+    padding: 0%;
+}
+footer{
+    background-color: azure;
+    color: cadetblue;
+    text-align: center;
+    position: fixed;
+    bottom: 0%;
+}
+main{
+    padding: 20px;
+}
